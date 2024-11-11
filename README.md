@@ -37,8 +37,9 @@ This project can be particularly beneficial for data enthusiasts looking to gain
 
 ## Installation
 
-1. [Download the dataset](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Data.xlsx)
-2. Import the data into Power BI and follow the setup instructions to recreate the dashboard, using bookmarks, drill-through, and dynamic tooltips.
+1. [Download the dataset](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Data.xlsx).
+2. [Download the Power BI file](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Supply%20Chain%20Data%20Analysis.pbix).
+3. Make sure you change the data path inside the Power BI file after opening it in the local machine.
 
 ## Dashboard Walkthrough
 
