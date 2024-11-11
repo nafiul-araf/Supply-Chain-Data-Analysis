@@ -3,6 +3,7 @@
 This project was completed as part of the DataDNA Nov 2024 Dataset Challenge. It involves creating a comprehensive **Supply Chain Analysis** dashboard using Power BI.
 
 **Click on the image to view the interactive Supply Chain Analysis Dashboard!**
+
 [![Supply Chain Analysis Dashboard](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Supply%20Chain%20Data%20Analysis.jpg)](https://app.powerbi.com/view?r=eyJrIjoiZTJjNzlmMDItYTMwOC00ZmFlLWEzMzgtOGI3MWI0NGNmNGRlIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
 
 
