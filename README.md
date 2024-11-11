@@ -37,7 +37,7 @@ This project can be particularly beneficial for data enthusiasts looking to gain
 
 ## Installation
 
-1. Download the dataset from the DataDNA Dataset Challenge.
+1. [Download the dataset](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Data.xlsx)
 2. Import the data into Power BI and follow the setup instructions to recreate the dashboard, using bookmarks, drill-through, and dynamic tooltips.
 
 ## Dashboard Walkthrough
