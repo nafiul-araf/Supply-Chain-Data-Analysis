@@ -35,7 +35,7 @@ This project can be particularly beneficial for data enthusiasts looking to gain
 - Building interactive and dynamic dashboards in Power BI
 - Developing real-world skills relevant to Data Analyst and Business Analyst roles
 
-## Installation
+## Download
 
 1. [Download the dataset](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Data.xlsx).
 2. [Download the Power BI file](https://github.com/nafiul-araf/Supply-Chain-Data-Analysis/blob/main/Supply%20Chain%20Data%20Analysis.pbix).
